@@ -1,0 +1,13 @@
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\bin\Debug\netcoreapp3.1\ordenarVector.exe
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\bin\Debug\netcoreapp3.1\ordenarVector.deps.json
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\bin\Debug\netcoreapp3.1\ordenarVector.runtimeconfig.json
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\bin\Debug\netcoreapp3.1\ordenarVector.runtimeconfig.dev.json
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\bin\Debug\netcoreapp3.1\ordenarVector.dll
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\bin\Debug\netcoreapp3.1\ordenarVector.pdb
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\obj\Debug\netcoreapp3.1\ordenarVector.csprojAssemblyReference.cache
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\obj\Debug\netcoreapp3.1\ordenarVector.AssemblyInfoInputs.cache
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\obj\Debug\netcoreapp3.1\ordenarVector.AssemblyInfo.cs
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\obj\Debug\netcoreapp3.1\ordenarVector.csproj.CoreCompileInputs.cache
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\obj\Debug\netcoreapp3.1\ordenarVector.dll
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\obj\Debug\netcoreapp3.1\ordenarVector.pdb
+C:\Users\rbchu\Documents\sena\TrimetreIV\NET\ejercicios\ordenarVector\ordenarVector\obj\Debug\netcoreapp3.1\ordenarVector.genruntimeconfig.cache
